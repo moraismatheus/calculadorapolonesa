@@ -1,0 +1,1 @@
+{"mixinTypes":["factory"],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{},"default":"system:/java/standalone/simple/cli"},"description":"Java Console","type":"blank","attributes":{"sourceFactoryId":["apmfl4nx23p0uemj"]}}
